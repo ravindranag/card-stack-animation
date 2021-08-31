@@ -8,7 +8,6 @@ body {
     font-family: Rubik, serif;
     display: grid;
     place-content: center;
-    /* background: #0f1126; */
     background: url('images/joshua-rivera-usmhPmT5sj0-unsplash.jpg') fixed no-repeat center;
     height: 100vh;
 }
